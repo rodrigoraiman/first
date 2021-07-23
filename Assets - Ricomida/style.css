@@ -1,0 +1,45 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    width: 1280pt;
+    
+}
+.navbar {
+    width: 1280pt;
+}
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+}
+
+header{
+    padding: 100px;
+}
+.col{
+    padding: 80px;
+}
+
+.carousel-item {
+   
+    width: 233pt;
+    height: 170pt;
+    
+}
+.col-3 {
+    width: 633pt 170pt;
+}
+
+
+.list-group {
+
+     background-color: #71aa9a
+
+}
+
+footer {
+    
+    width: max-content;
+    border-width: 1250pt;
+    
+}
+.ricomidafooter {
+    font-family: 'Lobster', cursive;
+}
